@@ -1,0 +1,7 @@
+INSERT INTO car_rental_db.rented_items (rented_item_name, rented_item_type, car_model, car_plate_number, is_rented) VALUES ('Убитый Фольцваген Гольф', 1, 'Volkswagen', 'Е234ПР59RUS', false);
+INSERT INTO car_rental_db.rented_items (rented_item_name, rented_item_type, car_model, car_plate_number, is_rented) VALUES ('Новенький Ситроен', 1, 'Citroen', 'Х000ИУ59RUS', false);
+INSERT INTO car_rental_db.rented_items (rented_item_name, rented_item_type, car_model, car_plate_number, is_rented) VALUES ('Тесла Роадстер', 1, 'Tesla', 'MUSK007', true);
+INSERT INTO car_rental_db.rented_items (rented_item_name, rented_item_type, car_model, car_plate_number, is_rented) VALUES ('Семёра (валит)', 1, 'ВАЗ 2107', 'А777МР777RUS', false);
+INSERT INTO car_rental_db.rented_items (rented_item_name, rented_item_type, car_model, car_plate_number, is_rented) VALUES ('Лупатый', 1, 'Mersedes', 'AM00659', true);
+INSERT INTO car_rental_db.rented_items (rented_item_name, rented_item_type, car_model, car_plate_number, is_rented) VALUES ('Электро Самокат', 2, 'Xiaomi', 'Другая атр. модель', false);
+INSERT INTO car_rental_db.rented_items (rented_item_name, rented_item_type, car_model, car_plate_number, is_rented) VALUES ('Шкода Беленькая', 1, 'Shkoka', 'К126РС124RUS', false);
